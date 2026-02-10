@@ -1,0 +1,119 @@
+# Core ML/AI (GPU-enabled PyTorch)
+torch --index-url https://download.pytorch.org/whl/cu121
+torchvision --index-url https://download.pytorch.org/whl/cu121
+torchaudio --index-url https://download.pytorch.org/whl/cu121
+
+# RL Framework
+stable-baselines3[extra]
+gymnasium==0.28.1
+gym==0.26.2
+
+# Data Processing & Analysis
+numpy
+pandas
+scipy
+matplotlib
+seaborn
+
+# Google Maps & Location Services
+googlemaps
+geopy
+
+# Database & ORM
+sqlite-utils
+sqlalchemy
+
+# Web Framework & API
+fastapi
+uvicorn[standard]
+pydantic
+pydantic-settings
+
+# HTTP & Async
+requests
+aiohttp
+httpx
+
+# Authentication & Security
+bcrypt==4.1.1
+PyJWT==2.8.1
+python-jose[cryptography]
+
+# Environment & Configuration
+python-dotenv
+environs
+
+# Date & Time
+pytz
+python-dateutil
+
+# Utilities
+tqdm
+python-multipart
+
+# Development & Testing
+jupyter
+ipython
+pytest
+black
+flake8
+
+# Optional - Game Library for RL
+torch --index-url https://download.pytorch.org/whl/cu121
+torchvision --index-url https://download.pytorch.org/whl/cu121
+torchaudio --index-url https://download.pytorch.org/whl/cu121
+
+# RL Framework
+stable-baselines3[extra]
+gymnasium==0.28.1
+gym==0.26.2
+
+# Data Processing & Analysis
+numpy
+pandas
+scipy
+matplotlib
+seaborn
+
+# Google Maps & Location Services
+googlemaps
+geopy
+
+# Database & ORM
+sqlite-utils
+sqlalchemy
+
+# Web Framework & API
+fastapi
+uvicorn[standard]
+pydantic
+pydantic-settings
+
+# HTTP & Async
+requests
+aiohttp
+httpx
+
+# Authentication & Security
+bcrypt==4.1.1
+PyJWT==2.8.1
+python-jose[cryptography]
+
+# Environment & Configuration
+python-dotenv
+environs
+
+# Date & Time
+pytz
+python-dateutil
+
+# Utilities
+tqdm
+python-multipart
+
+# Development & Testing
+jupyter
+ipython
+pytest
+black
+flake8
